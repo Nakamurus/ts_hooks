@@ -1,4 +1,4 @@
-import React, { useReducer } from 'react';
+import React from 'react';
 import CustomHookComponent from './components/customHookComponent';
 import TestComponent from './components/genericComponent';
 import UseContextComponent from './components/useContextComponent';
